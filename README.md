@@ -3,21 +3,19 @@
 https://akarshi19.github.io/Bharat-Intern-Task3-Netflix-Homepage/     
 This project is a clone of the Netflix homepage created using HTML and CSS. The purpose of this project is to replicate the appearance and layout of the Netflix homepage, providing a similar user interface and visual experience.      
 
-## Features
-Navigation Bar: The navigation bar is located at the top of the page, displaying the Netflix logo, language select button, and navigation links to sign in sections of the website.     
-Banner Section: A large banner section showcases a visually appealing image or video along with a headline and description. It can be used to highlight featured movies, shows, or promotional content.    
-Responsive Design: The clone is designed to be responsive, adapting to different screen sizes and devices, ensuring a seamless user experience.      
-Footer: The footer section contains links to different pages, such as "About Us," "FAQ," "Terms of Use," "Privacy Policy," etc. It may also include social media icons for easy access to Netflix's social accounts.     
+## Features:
+* Navigation Bar: The navigation bar is located at the top of the page, displaying the Netflix logo, language select button, and navigation links to sign in sections of the website.     
+* Banner Section: A large banner section showcases a visually appealing image or video along with a headline and description. It can be used to highlight featured movies, shows, or promotional content.    
+* Responsive Design: The clone is designed to be responsive, adapting to different screen sizes and devices, ensuring a seamless user experience.      
+* Footer: The footer section contains links to different pages, such as "About Us," "FAQ," "Terms of Use," "Privacy Policy," etc. It may also include social media icons for easy access to Netflix's social accounts.     
 
 ## Technologies Used
 The Netflix Homepage Clone is built using the following technologies:     
-
-HTML: Markup language used for structuring the page.      
-CSS: Stylesheets are used for styling the elements and layout.
+* HTML: Markup language used for structuring the page.      
+* CSS: Stylesheets are used for styling the elements and layout.
 
 ## Usage
 To run the Netflix Homepage Clone on your local machine, follow these steps:     
-
 1.Clone the repository or download the source code.    
 2.Open the project directory in your preferred code editor.    
 3.Open the index.html file in a web browser.     
