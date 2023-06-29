@@ -27,9 +27,3 @@ If you want to customize the clone or add additional features, you can modify th
 ## Acknowledgements
 This project is a clone and not affiliated with Netflix. It is created for educational purposes to demonstrate HTML and CSS skills in web development. The design and assets used in this clone are inspired by the Netflix homepage.     
 
-
-
-
-
-
-Regenerate response
